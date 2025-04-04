@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QrCodeScanner</string>
+
+    <string name="get_started">Get started with QR codes</string>
+    <string name="point_camera">Just point the camera and we\'ll do the rest.</string>
+    <string name="start">Start</string>
+
+    <string name="scan_qr_code">Scan QR-code</string>
+    <string name="gallery">Gallery</string>
+
+    <string name="recognizing">Recognizing QR code</string>
+    <string name="recognize_failed">Failed to recognize QR code</string>
+</resources>

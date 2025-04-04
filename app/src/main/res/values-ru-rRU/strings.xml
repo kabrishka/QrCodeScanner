@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="get_started">Начните работу с QR-кодами</string>
+    <string name="point_camera">Просто наведите камеру – мы сделаем всё остальное</string>
+    <string name="start">Начать</string>
+
+    <string name="scan_qr_code">Сканировать QR-код</string>
+    <string name="gallery">Галерея</string>
+
+    <string name="recognizing">Распознавание QR-кода</string>
+    <string name="recognize_failed">Не удалось распознать QR-код</string>
+</resources>
