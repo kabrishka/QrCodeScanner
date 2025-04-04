@@ -16,3 +16,5 @@
 **Ограничения**
 - Требуется Android API 23+ (для ActivityResultContracts).
 - Декодирование больших изображений (>5MB) может занимать до 1-2 секунд.
+
+<img src="https://github.com/kabrishka/QrCodeScanner/blob/master/ex.gif" width="300">
